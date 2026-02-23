@@ -1,4 +1,5 @@
 #Support Ticket System
+
 A support ticket management system with AI-powered auto-classification. Built with Django, React, PostgreSQL, and Docker.
 
 #Start everything:
