@@ -14,17 +14,17 @@ Backend API      http://localhost:8000/api/
 #API Endpoints:
 
 
-Method        Endpoint                 Description
+#Method            Endpoint                     Description
 
-POST          /api/tickets/            Create a new ticket
+POST               /api/tickets/                Create a new ticket
 
-GET           /api/tickets/            List all tickets
+GET                /api/tickets/                List all tickets
 
-PATCH         /api/tickets/<id>/       Update a ticket (change status)
+PATCH              /api/tickets/<id>/           Update a ticket (change status)
 
-GET           /api/tickets/stats/      Get aggregated statistics
+GET                /api/tickets/stats/          Get aggregated statistics
 
-POST          /api/tickets/classify/   Get AI-suggested category + priority
+POST              /api/tickets/classify/        Get AI-suggested category + priority
 
 Filtering & Search:
 
